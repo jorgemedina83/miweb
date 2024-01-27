@@ -1,4 +1,13 @@
 body{
-    background-color: black;
-    color: white;
+    background-color: yellow;
+    color: red;
+}
+
+h1{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+p{
+    color: gray;
 }
